@@ -1,6 +1,6 @@
 ---
 title: "XSS Vulnerabilities Made Eazyypezyyy"
-date: 2024-04-08T23:15:00+07:00
+date: 
 slug: XSS
 category: blog 
 summary:

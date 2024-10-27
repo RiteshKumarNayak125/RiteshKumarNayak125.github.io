@@ -1,6 +1,6 @@
 ---
 title: "What Is Bioinformatics"
-date: 2022-04-03T23:15:00+07:00
+date: 
 slug: what-is-bioinformatics
 category: bioinformatics
 summary:

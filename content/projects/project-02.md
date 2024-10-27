@@ -1,6 +1,6 @@
 ---
 title: "Python-Remote-Keylogger"
-date: 2024-04-05T23:15:00+07:00
+date:  
 slug: keylogger
 category: projects
 summary:

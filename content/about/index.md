@@ -24,9 +24,9 @@ draft: false
 
 __You can also connect with me at the following social platforms:__
 
-- [**Twitter**](https://twitter.com/thedataprof) (where I share infosec insights and memes that only hackers understand 😆)
+- [**Twitter**](https://x.com/RiteshNaya49092?t=aiYiTABsgNdBj6gy_fPQaA&s=09) (where I share infosec insights and memes that only hackers understand 😆)
 
-- [**LinkedIn**](https://www.linkedin.com/in/chanin-nantasenamat/) (for the “suit and tie” version of me)
+- [**LinkedIn**](https://www.linkedin.com/in/riteshnayak125/) (for the “suit and tie” version of me)
 
 - [**InstaGram**](https://www.instagram.com/ritvz11) (for the "behind-the-scenes" moments and a dash of fun!)
 

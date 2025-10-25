@@ -41,14 +41,14 @@ params:
   tocopen: false
 
   label:
-    text: "Ritesh Kumar Nayak"
-    icon: "images/Pixel Squid Game Pfp Wallpaper.jpg"
+    text: "Ritvzz"
+    icon: "images/browsing.png"
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: "Howdyyy \U0001F60F"
+    title: " Security Automation Specialist \U0001F60F"
     subtitle: "Its **Ritesh Kumar Nayak, Btech** ,
     I design AI-driven security automation and orchestration workflows across cloud and network stacks using Palo Alto NGFW, Prisma SASE, Netskope SASE, Prisma Cloud, CrowdStrike, and SOAR tools like Cortex XSOAR and Demisto."
     imageUrl: "images/Last Memory Takeoff Fond D Ecran Dessin Photo Profil Croquis.jpg"

@@ -57,7 +57,7 @@ params:
     imageTitle: "Data Professor"
     buttons:
       - name: Certifications
-        url: blogs
+        url: Certifications
       - name: Projects
         url: projects
 

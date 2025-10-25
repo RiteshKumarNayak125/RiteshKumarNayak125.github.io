@@ -56,7 +56,7 @@ params:
     imageHeight: 120
     imageTitle: "Data Professor"
     buttons:
-      - name: Blogs
+      - name: Certifications
         url: blogs
       - name: Projects
         url: projects

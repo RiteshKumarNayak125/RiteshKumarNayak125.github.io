@@ -57,7 +57,7 @@ params:
     imageTitle: "Data Professor"
     buttons:
       - name: Certifications
-        url: Certifications
+        url: blogs
       - name: Projects
         url: projects
 
@@ -127,7 +127,7 @@ menu:
 
     - identifier: Certification
       name: Certification
-      url: /Certification/
+      url: /blogs/
       weight: 2
       
     - identifier: projects

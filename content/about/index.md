@@ -14,24 +14,28 @@ showtoc: false
 draft: false
 ---
 
-👨‍💻 By Day: I'm deep in the world of cybersecurity consulting, securing digital landscapes and making sure the “bad guys” stay out (or maybe just learn a thing or two from them 👀
+👨‍💻 **Cybersecurity Engineer in the Making**  
+I help organizations secure their cloud and network edges using modern security platforms.  
+My day revolves around **Palo Alto NGFW**, **Prisma SASE**, and **Netskope SASE** — ensuring users stay safe while staying connected.
 
-🌙 By Night: The real fun begins. You’ll find me hunting vulnerabilities on TryHackMe, cracking boxes like digital escape rooms, and scouting for bounties on HackerOne. I’m also on the path to the ultimate badge of honor: OSCP (aspiring certified hacker here! 🏴‍☠️)
+⚙️ **Automation-Driven Mindset**  
+I love reducing repetitive tasks and building smart workflows.  
+Diving deeper into **AI-powered security automation**, SOAR tools, and detection engineering to make security faster, proactive, and scalable.
+
+🎯 **Career Mission**  
+To become a **Cloud Security / DevSecOps Engineer** who builds security into every stage of technology — from development to delivery.
+
+---
 
 - 📝 [**Medium Blogs**](https://medium.com/@ritesh4u2020)
 - 💻 [**GitHub**](https://github.com/RiteshKumarNayak125)
-- 💻 [**TryHackMe**](https://tryhackme.com/r/p/ritesh4u2020)
+- 🔐 [**TryHackMe**](https://tryhackme.com/r/p/ritesh4u2020)
 
-__You can also connect with me at the following social platforms:__
+__Stay Connected & Let’s Build Something Secure Together:__
 
-- [**Twitter**](https://x.com/RiteshNaya49092?t=aiYiTABsgNdBj6gy_fPQaA&s=09) (where I share infosec insights and memes that only hackers understand 😆)
+- 🐦 [**Twitter**](https://x.com/RiteshNaya49092?t=aiYiTABsgNdBj6gy_fPQaA&s=09)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/riteshnayak125/)
+- 📸 [**Instagram**](https://www.instagram.com/ritvz11)
 
-- [**LinkedIn**](https://www.linkedin.com/in/riteshnayak125/) (for the “suit and tie” version of me)
-
-- [**InstaGram**](https://www.instagram.com/ritvz11) (for the "behind-the-scenes" moments and a dash of fun!)
-
-__You can also Listin to my Fav Playlist (playin it on loop everyday):__
-- [**RandomHills**](https://open.spotify.com/playlist/23kX5wrr4YiwZQveYHCSA0?si=061890fb8e084356) 
-
-
-
+🎧 __My go-to Playlist While Automating Stuff:__  
+- [**RandomHills**](https://open.spotify.com/playlist/23kX5wrr4YiwZQveYHCSA0?si=061890fb8e084356)

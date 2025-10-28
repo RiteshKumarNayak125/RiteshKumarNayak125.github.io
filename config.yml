@@ -59,7 +59,7 @@ params:
       - name: Certifications
         url: blogs
       - name: Projects
-        url:"https://github.com/RiteshKumarNayak125"
+        url: "https://github.com/RiteshKumarNayak125"
 
   # home-info mode
   homeInfoParams:

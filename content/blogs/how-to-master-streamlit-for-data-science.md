@@ -22,7 +22,7 @@ Click any certification below to **open the PDF in browser** 👇
 
 ## ✅ Zscaler Certified Cloud Professional (ZCCP)
 
-📄 [View Certificate (PDF)](/image/Ritesh2025_CortexFoundation.pdf)
+📄 [View Certificate (PDF)](static/images/Ritesh2025_CortexFoundation.pdf)
 
 - Issued by: **Zscaler**
 - Year: 2024

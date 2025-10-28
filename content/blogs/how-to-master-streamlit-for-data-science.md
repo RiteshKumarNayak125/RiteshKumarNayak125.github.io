@@ -1,18 +1,3 @@
----
-title: "My Certifications"
-date: 2025-01-01
-slug: certifications
-category: achievements
-summary: "My professional cybersecurity certifications"
-description: "A list of my earned certifications with PDF view access."
-cover:
-  image: "image/certifications-cover.jpg"
-  alt: "Certifications Cover"
-  caption:
-  relative: true
-showtoc: false
-draft: false
----
 
 # 🎓 Certifications
 

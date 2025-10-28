@@ -132,7 +132,7 @@ menu:
       
     - identifier: projects
       name: Projects
-      url: /projects/
+      url: "https://github.com/RiteshKumarNayak125"
       weight: 3
 
    # - identifier: infographics

@@ -1,8 +1,54 @@
-<div style="display:flex;align-items:center;gap:12px;padding:12px;border-radius:12px;box-shadow:0 4px 14px rgba(0,0,0,0.06);background:#fff;max-width:720px;">
-<img src="static/images/Screenshot 2025-10-28 172350.png" alt="PCNSE badge" style="width:80px;height:80px;object-fit:contain;border-radius:8px;"/>
-<div>
-<h3 style="margin:0;font-size:1.05rem;">Palo Alto Networks — PCNSE</h3>
-<p style="margin:4px 0 0 0;color:#555;">Status: <strong>Achieved</strong> • <small>Exam: PA‑NGFW (update date)</small></p>
-<p style="margin:8px 0 0 0;font-size:0.95rem;color:#333;">Hands-on NGFW skills, policy design, and SASE integration.</p>
-</div>
-</div>
+---
+title: "My Certifications"
+date: 2025-01-01
+slug: certifications
+category: achievements
+summary: "My professional cybersecurity certifications"
+description: "A list of my earned certifications with PDF view access."
+cover:
+  image: "image/certifications-cover.jpg"
+  alt: "Certifications Cover"
+  caption:
+  relative: true
+showtoc: false
+draft: false
+---
+
+# 🎓 Certifications
+
+Click any certification below to **open the PDF in browser** 👇
+
+---
+
+## ✅ Zscaler Certified Cloud Professional (ZCCP)
+
+📄 [View Certificate (PDF)](/image/Ritesh2025_CortexFoundation.pdf)
+
+- Issued by: **Zscaler**
+- Year: 2024
+
+---
+
+## ✅ Palo Alto Networks Certified Security Engineer (PCNSE)
+
+📄 [View Certificate (PDF)](/image/pcnse.pdf)
+
+- Issued by: **Palo Alto Networks**
+- Year: 2024
+
+---
+
+## ✅ Prisma SASE Certified
+
+📄 [View Certificate (PDF)](/image/prisma.pdf)
+
+- Issued by: **Palo Alto Networks**
+- Year: 2025
+
+---
+
+> To add new certificates:
+> - Upload the PDF into `static/image/`
+> - Duplicate one of the certification blocks and update the file name + title
+
+---
